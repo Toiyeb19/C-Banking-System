@@ -18,4 +18,5 @@ A robust, cross-platform CLI banking application written in C. Unlike standard s
 ## How to Run
 
 1. Compile the code using GCC:
+   '''bash
    gcc main.c -o bank_app
