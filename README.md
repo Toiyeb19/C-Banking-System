@@ -1,6 +1,5 @@
 ### Bank System README 
 
-```markdown
 # Secure Banking Management System
 
 A robust, cross-platform CLI banking application written in C. Unlike standard student projects, this system features full data persistence using file handling, ensuring user data and transaction history are saved permanently.
@@ -19,5 +18,4 @@ A robust, cross-platform CLI banking application written in C. Unlike standard s
 ## How to Run
 
 1. Compile the code using GCC:
-   ```bash
    gcc main.c -o bank_app
